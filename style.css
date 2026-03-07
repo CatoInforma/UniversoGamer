@@ -146,3 +146,20 @@ img {
 .btn:hover{
   background:#00cc99;
   }
+nav{
+background:#020617;
+padding:15px;
+box-shadow:0 2px 10px black;
+}
+
+nav a{
+color:#38bdf8;
+margin:15px;
+text-decoration:none;
+font-weight:bold;
+font-size:18px;
+}
+
+nav a:hover{
+color:#22c55e;
+}
