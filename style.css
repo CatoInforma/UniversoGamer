@@ -171,3 +171,8 @@ margin-bottom:60px;
 color:#22c55e;
 margin-top:40px;
   }
+nav{
+position:fixed;
+top:0;
+width:100%;
+}
