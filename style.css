@@ -25,8 +25,10 @@ box-shadow:0 0 10px #000;
 transform:scale(1.05);
 transition:0.3s;
 }
-img {
-  max-width: 100%;
+.card img {
+  width: 100%;
   height: auto;
-  border-radius: 10px; /* opcional */
+  max-height: 250px;
+  object-fit: cover;
+  border-radius: 10px;
 }
