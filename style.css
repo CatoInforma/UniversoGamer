@@ -14,3 +14,14 @@ color:#38bdf8;
 margin:10px;
 text-decoration:none;
 }
+.juego{
+background:#1e293b;
+margin:20px;
+padding:20px;
+border-radius:10px;
+box-shadow:0 0 10px #000;
+}
+.juego:hover{
+transform:scale(1.05);
+transition:0.3s;
+}
