@@ -38,3 +38,8 @@ transition:0.3s;
   object-fit:cover;
   border-radius:10px;
 }
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px; /* opcional */
+}
